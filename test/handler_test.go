@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/zuadi/csvHandler"
-	"github.com/zuadi/csvHandler/checkressources"
+	checkressources "github.com/zuadi/csvHandler/checkRessources"
 )
 
 func TestCSVHandler(t *testing.T) {
